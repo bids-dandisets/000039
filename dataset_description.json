@@ -1,20 +1,4 @@
 {
-    "Name": "Allen Institute \u2013 Contrast tuning in mouse visual cortex with calcium imaging",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0",
-    "Description": "A two photon calcium imaging dataset from Allen Institute measuring responses to full-field drifting gratings (approx. 120x90 degrees of visual space) of 8 directions and 6 contrasts (5%, 10%, 20%, 40%, 60%, 80%). Mouse Cre lines expressing GCaMP6f were imaged to record responses of   pyramidal neurons across cortical layers (Cux2: layer 2/3; Rorb: layer 4; Rbp4: layer 5; Ntsr1: layer 6) as well as inhibitory interneurons (Vip and Sst). All experimental sessions took place on the same data collection pipeline as the Allen Brain Observatory (see http://observatory.brain-map.org/visualcoding) and have the same visual stimulus monitor calibration and positioning, two photon imaging systems and image processing pipeline, and running wheel to track locomotion.\n\n Data are subject to Allen Institute Terms of Use policy, available at: http://www.alleninstitute.org/legal/terms-use/",
-    "DatasetType": "raw",
-    "Authors": [
-        "Millman, Dan",
-        "Vries, Saskia de"
-    ],
-    "License": "CC-BY-4.0",
-    "GeneratedBy": [
-        {
-            "Name": "nwb2bids",
-            "Version": "0.12.1.dev6+gf29fa0039",
-            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
-            "CodeURL": "https://github.com/con/nwb2bids"
-        }
-    ]
+    "HEDVersion": "8.3.0"
 }
